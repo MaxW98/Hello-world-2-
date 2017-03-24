@@ -1,2 +1,6 @@
-# Hello-world-2-
-GitHub More Depth 
+# Hello-world
+
+**GitHub More Depth** 
+
+### Hello World is a college project which displays **Hello World** to the user. 
+
